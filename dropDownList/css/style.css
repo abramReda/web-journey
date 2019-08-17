@@ -1,0 +1,43 @@
+body{
+	background-color:#000;
+	color:#fff;
+}
+
+.open{
+	width:300px;
+	margin:100Px auto 0;
+	background-color:#220;
+	color:99f;
+	border:1px solid #000;
+	text-align:center;
+	
+	
+}
+
+.open:hover{
+	cursor:pointer;
+}
+
+.navigation{
+	width:300px;
+	margin:0 auto;
+	background-color:#bbb;
+	color:99f;
+	display:none;
+}
+
+.navigation ul{
+	margin-top:0;
+	list-style:none;
+	text-align:center;
+	padding-inline-start:0px;
+	
+}
+
+
+.navigation ul li{
+	border-bottom: 1px solid #00f;
+	margin:0px auto;
+	
+	
+}
