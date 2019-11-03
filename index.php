@@ -13,6 +13,10 @@
 
 	<h1>my jurny to lern web devolpment</h1>
 	
+	<?php 
+		echo "test php page";
+	?>
+	
 	<h2>jquery</h2>
 	<ul>
 	<li><a href="dropDownList.html">dropDownList</a></li>
